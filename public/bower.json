@@ -1,0 +1,17 @@
+{
+  "name": "knowledgePortal",
+  "authors": [
+    "myamar94 <singhamardeep2194@gmail.com>"
+  ],
+  "description": "A portal for sharing notes, question papers, assignments etc digitally to enhance the learning skills and activities",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
